@@ -8,7 +8,8 @@
 
 1. Python 기초
     1. [Tutorial(변수, 자료형, 연산자, 조건문, 반복문, 함수 등)](TIL/tutorial_part_one.md)
-    2. [Tutorial(클래스, OOP)]()
+    2. [Tutorial(클래스, OOP, 이터레이터, 제너레이터)](TIL/tutorial_part_two.md)
+    3. [Tutorial(파일 입출력)](TIL/tutorial_part_three.md)
 1. 인공지능 기초
 
 ## Personal Missions
