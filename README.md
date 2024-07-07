@@ -1,23 +1,41 @@
 # kakao tech bootcamp AI Course
 
 - <a href="#til">TIL</a>
-- <a href="#personal-missions">Personal Missions</a>
 - <a href="#daily-missions">Daily Missions</a>
+- <a href="#personal-missions">Personal Missions</a>
 
 ## TIL
 
 1. Python 기초
-    1. [Tutorial(변수, 자료형, 연산자, 조건문, 반복문, 함수 등)](TIL/tutorial_part_one.md)
+    1. [Tutorial(변수, 자료형, 연산자, 조건문, 반복문, 함수, 리스트 등)](TIL/tutorial_part_one.md)
     2. [Tutorial(클래스, OOP, 이터레이터, 제너레이터)](TIL/tutorial_part_two.md)
     3. [Tutorial(파일 입출력)](TIL/tutorial_part_three.md)
-1. 인공지능 기초
+    4. [Tutorial(Collection Module, Logging, Regex, Thread, Coding Convension, Rest API, Web Framework)](TIL/tutorial_part_four.md)
+    <!-- 5. [dictionary 중첩 사용 + defaultdict까지](TIL/nested_default_dictionary.md) -->
 
-## Personal Missions
+1. 데이터 & 인공지능 기초
+    1. [데이터, 케이스, 자료의 구분, 데이터 수집 방법](TIL/tutorial_part_five.md)
 
-1. 
-
-
-## Daily Missions
+## Daily Mission
 
 1. [개발 환경 설정](PersonalMissions/setting_up_the_development_environment.md)
-2. [크롤링 - scrapy 사용해보기](PersonalMissions/try_to_use_scrapy.md)
+<!-- 2. [크롤링 - scrapy 사용해보기](PersonalMissions/try_to_use_scrapy.md) -->
+
+## Personal Mission
+
+1. NLP 파이프라인을 구축하고 성능 평가
+2. OpenAI API를 사용하여 텍스트 생성 및 처리
+3. OpenAI API를 활용한 생성형 AI 서비스 운영
+4. 텍스트 데이터를 클리닝하고 정규화
+5. 데이터를 정제하고 정형화하여 RAG에 활용
+6. OpenAI ChatGPT OpenAPI를 사용하여 텍스트 데이터를 임베딩하여 활용
+7. 가상의 생성형AI 개발자 입사 미션 수행
+8. 다양한 프롬프트를 설계하고 테스트 (결과물: 프롬프트 설계 문서 및 테스트 결과)
+9. matplotlib를 사용하여 데이터 시각화 실습
+10. GPTs 출시해보기
+11. 텍스트 데이터를 증강하여 데이터셋 확대
+12. OpenAI API를 사용하여 카카오테크 부트캠프 활동을 도와주는 챗봇을 개발
+13. KoGPT Open API를 활용한 텍스트 생성 및 분석
+14. RAG와 OpenAI API를 통합하여 검색 및 텍스트 생성 기능 구현
+15. RAG를 활용하여 데이터 검색 및 활용
+16. OpenAI API를 활용한 생성형 AI 서비스 기획 및 제작

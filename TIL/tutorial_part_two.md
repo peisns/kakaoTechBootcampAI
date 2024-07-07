@@ -3,7 +3,19 @@
 # TIL (Today I Learned)
 
 - 2024-07-03 ~ 2024-07-04
-- 참고: Python Documentation, [AI를 위한 파이썬 기초](https://www.inflearn.com/course/ai-%EC%9D%B4%ED%95%B4-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B8%B0%EC%B4%88), ktb 강의 자료
+- 클래스, OOP, 이터레이터, 제너레이터 등
+- [파이썬 기초 문법](#파이썬-기초-문법)
+  * [클래스와 객체지향 프로그래밍](#클래스와-객체지향-프로그래밍)
+    + [객체 지향 프로그래밍(Object-Oriented Programming)](#객체-지향-프로그래밍object-oriented-programming)
+    + [OOP의 특징](#oop의-특징)
+    + [클래스](#클래스)
+    + [매직 메서드(Magic Methods)](#매직-메서드magic-methods)
+  * [제너레이터와 이터레이터](#제너레이터와-이터레이터)
+    + [이터레이터(Iterator)](#이터레이터iterator)
+    + [제너레이터(generator)](#제너레이터generator)
+    + [구현 방식](#구현-방식)
+    + [사용 용이성](#사용-용이성)
+    + [메모리 효율성](#메모리-효율성)
 
 # 파이썬 기초 문법
 
@@ -56,7 +68,8 @@
     - 코드 유지보수성: 모듈화된 코드 구조를 통해 유지보수를 쉽게 할 수 있음
     - 확장성: 새로운 기능 추가 시 기존 코드를 수정하지 않고 확장할 수 있음
 
-> TODO: OOP 좀 더 자세하게 공부하기
+<!-- > TODO: OOP 좀 더 자세하게 공부하기
+https://velog.io/@hkoo9329/OOPObject-Oriented-Programming-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9D%B4%EB%9E%80 -->
 
 ### 클래스
 
@@ -96,7 +109,7 @@
 - 제너레이터도 이터레이터이므로 \_\_iter\_\_()와 \_\_next\_\_() 자동 구현
 - 코드 간결화: 복잡한 이터레이터 코드를 간단하게 작성 
 
-> TODO: yield 키워드, 필요성, 활용에 대한 내용 추가
+<!-- > TODO: yield 키워드, 필요성, 활용에 대한 내용 추가 -->
 
 ### 구현 방식
 

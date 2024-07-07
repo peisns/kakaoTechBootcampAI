@@ -3,7 +3,21 @@
 # TIL (Today I Learned)
 
 - 2024-07-03 ~ 2024-07-04
-- 참고: Python Documentation, [AI를 위한 파이썬 기초](https://www.inflearn.com/course/ai-%EC%9D%B4%ED%95%B4-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B8%B0%EC%B4%88), ktb 강의 자료
+- 변수, 자료형, 연산자, 조건문, 반복문, 함수, 리스트 등
+- [파이썬 기초 문법](#파이썬-기초-문법)
+  * [변수](#변수)
+  * [자료형](#자료형)
+  * [서식 문자열](#서식-문자열)
+  * [연산자](#연산자)
+  * [문자열 슬라이싱](#문자열-슬라이싱)
+  * [조건문](#조건문)
+    + [시퀀스](#시퀀스)
+    + [반복문 while](#반복문-while)
+    + [반복문 continue / break](#반복문-continue--break)
+  * [함수](#함수)
+    + [람다(lambda) 함수](#람다lambda-함수)
+    + [함수형 프로그래밍](#함수형-프로그래밍)
+- [참고](#참고)
 
 # 파이썬 기초 문법
 
@@ -205,3 +219,15 @@
 - 단, list를 반환하는 것은 아니고 이터레이터를 반환함
 - 다른 부분은 Swift와 같음
 
+
+
+<!-- > TODO: 리스트 -->
+
+--- 
+
+### 참고
+
+- 이지형(Jhin). _생성형 인공지능(AI) 과정_, kakao tech bootcamp, 2024.
+- 성창규. "파이썬 기초 문법(Ⅰ)." _AI 이해를 위한 파이썬 기초_, 부산대학교 소프트웨어융합교육원, [www.inflearn.com/course/ai-이해-파이썬기초](https://www.inflearn.com/course/ai-%EC%9D%B4%ED%95%B4-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B8%B0%EC%B4%88). Accessed 7 7 2024.
+- 성창규. "파이썬 기초 문법(Ⅱ)." _AI 이해를 위한 파이썬 기초_, 부산대학교 소프트웨어융합교육원, [www.inflearn.com/course/ai-이해-파이썬기초](https://www.inflearn.com/course/ai-%EC%9D%B4%ED%95%B4-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B8%B0%EC%B4%88). Accessed 7 7 2024.
+- “Python 3.10.13 문서.” _3.10.13 Documentation_, [docs.python.org/ko/3.10/index.html](). Accessed 8 July 2024. 
