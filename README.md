@@ -1,20 +1,22 @@
 # kakao tech bootcamp AI Course
 
-- <a href="#til">TIL</a>
-- <a href="#daily-missions">Daily Missions</a>
-- <a href="#personal-missions">Personal Missions</a>
+  * [Knowledge Repository](#knowledge-repository)
+  * [Daily Mission](#daily-mission)
+  * [Personal Mission](#personal-mission)
 
-## TIL
+
+## Knowledge Repository
 
 1. Python 기초
-    1. [Tutorial(변수, 자료형, 연산자, 조건문, 반복문, 함수, 리스트 등)](TIL/tutorial_part_one.md)
-    2. [Tutorial(클래스, OOP, 이터레이터, 제너레이터)](TIL/tutorial_part_two.md)
-    3. [Tutorial(파일 입출력)](TIL/tutorial_part_three.md)
-    4. [Tutorial(Collection Module, Logging, Regex, Thread, Coding Convension, Rest API, Web Framework)](TIL/tutorial_part_four.md)
-    <!-- 5. [dictionary 중첩 사용 + defaultdict까지](TIL/nested_default_dictionary.md) -->
+    1. [Tutorial(변수, 자료형, 연산자, 조건문, 반복문, 함수, 리스트 등)](knowledgeRepository/tutorial_part_one.md)
+    2. [Tutorial(클래스, OOP, 이터레이터, 제너레이터)](knowledgeRepository/tutorial_part_two.md)
+    3. [Tutorial(파일 입출력)](knowledgeRepository/tutorial_part_three.md)
+    4. [Tutorial(Collection Module, Logging, Regex, Thread, Coding Convension, Rest API, Web Framework)](knowledgeRepository/tutorial_part_four.md)
+    <!-- 5. [dictionary 중첩 사용 + defaultdict까지](knowledgeRepository/nested_default_dictionary.md) -->
+    6. [namedTuple 사용](knowledgeRepository/namedtuple.md)
 
 1. 데이터 & 인공지능 기초
-    1. [데이터, 케이스, 자료의 구분, 데이터 수집 방법](TIL/tutorial_part_five.md)
+    1. [데이터, 케이스, 자료의 구분, 데이터 수집 방법](knowledgeRepository/tutorial_part_five.md)
 
 ## Daily Mission
 

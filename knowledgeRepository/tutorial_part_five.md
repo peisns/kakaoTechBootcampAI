@@ -1,6 +1,6 @@
 [🏠 처음으로](/README.md)
 
-# TIL (Today I Learned)
+# Knowledge Repository
 
 - 2024-07-02 ~ 2024-07-08
 - 데이터, 케이스, 자료의 구분, 데이터 수집 방법

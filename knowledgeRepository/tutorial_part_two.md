@@ -1,6 +1,6 @@
 [🏠 처음으로](/README.md)
 
-# TIL (Today I Learned)
+# Knowledge Repository
 
 - 2024-07-03 ~ 2024-07-04
 - 클래스, OOP, 이터레이터, 제너레이터 등
