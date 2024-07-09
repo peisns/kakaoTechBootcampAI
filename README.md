@@ -1,8 +1,8 @@
 # kakao tech bootcamp AI Course
 
-  * [Knowledge Repository](#knowledge-repository)
-  * [Daily Mission](#daily-mission)
-  * [Personal Mission](#personal-mission)
+  - [Knowledge Repository](#knowledge-repository)
+  - [Daily Mission](#daily-mission)
+  - [Personal Mission](#personal-mission)
 
 
 ## Knowledge Repository
@@ -12,8 +12,8 @@
     2. [Tutorial(클래스, OOP, 이터레이터, 제너레이터)](knowledgeRepository/tutorial_part_two.md)
     3. [Tutorial(파일 입출력)](knowledgeRepository/tutorial_part_three.md)
     4. [Tutorial(Collection Module, Logging, Regex, Thread, Coding Convension, Rest API, Web Framework)](knowledgeRepository/tutorial_part_four.md)
-    <!-- 5. [dictionary 중첩 사용 + defaultdict까지](knowledgeRepository/nested_default_dictionary.md) -->
-    6. [namedTuple 사용](knowledgeRepository/namedtuple.md)
+    5. [defaultdict](knowledgeRepository/try_defaultdicti.md)
+    6. [namedTuple](knowledgeRepository/namedtuple.md)
 
 1. 데이터 & 인공지능 기초
     1. [데이터, 케이스, 자료의 구분, 데이터 수집 방법](knowledgeRepository/tutorial_part_five.md)
@@ -21,7 +21,9 @@
 ## Daily Mission
 
 1. [개발 환경 설정](PersonalMissions/setting_up_the_development_environment.md)
-<!-- 2. [크롤링 - scrapy 사용해보기](PersonalMissions/try_to_use_scrapy.md) -->
+2. [크롤링 - scrapy 사용해보기](PersonalMissions/try_to_use_scrapy.md)
+3. [venv - python 가상환경 설정](PersonalMissions/try_venv.md)
+
 
 ## Personal Mission
 
