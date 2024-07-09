@@ -1,4 +1,6 @@
-<video playsinline autoplay loop muted controlslist="" preload="metadata" src="https://oopy.lazyrockets.com/api/v2/notion/fileUrl?src=https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F38552da6-340d-42c1-a9a1-b181ff331f03%2F0a0dcb5e-97b6-46b1-936d-7ce51bc0c815%2FKTB_PC.mp4&amp;blockId=9cf13c67-5925-4444-948a-499adc78e94c#t=0.0001" style="max-width: 100%; border-radius: 20px;"></video>
+
+![kakao tech bootcamp](https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ZbRBV_1719502180330/coverImage.png "kakao tech bootcamp")
+
 
 # kakao tech bootcamp AI Course
 
