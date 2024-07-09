@@ -221,7 +221,7 @@
 
 
 
-<!-- > TODO: 리스트 -->
+<!-- > TODO: 리스트, 시퀀스객체, 컨테이너 객체 https://docs.python.org/ko/3/c-api/concrete.html#container-objects-->
 
 --- 
 
@@ -231,3 +231,4 @@
 - 성창규. "파이썬 기초 문법(Ⅰ)." _AI 이해를 위한 파이썬 기초_, 부산대학교 소프트웨어융합교육원, [www.inflearn.com/course/ai-이해-파이썬기초](https://www.inflearn.com/course/ai-%EC%9D%B4%ED%95%B4-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B8%B0%EC%B4%88). Accessed 7 7 2024.
 - 성창규. "파이썬 기초 문법(Ⅱ)." _AI 이해를 위한 파이썬 기초_, 부산대학교 소프트웨어융합교육원, [www.inflearn.com/course/ai-이해-파이썬기초](https://www.inflearn.com/course/ai-%EC%9D%B4%ED%95%B4-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B8%B0%EC%B4%88). Accessed 7 7 2024.
 - “Python 3.10.13 문서.” _3.10.13 Documentation_, [docs.python.org/ko/3.10/index.html](). Accessed 8 July 2024. 
+<!-- - “9.클래스.” _3.12.4 Documentation_, [docs.python.org/ko/3/tutorial/classes.html](https://docs.python.org/ko/3/tutorial/classes.html). Accessed 8 July 2024.  -->
