@@ -23,7 +23,7 @@
 ## Daily Mission
 
 1. [개발 환경 설정](PersonalMissions/setting_up_the_development_environment.md)
-2. [크롤링 - scrapy 사용해보기](PersonalMissions/try_to_use_scrapy.md)
+2. [크롤링 - scrapy 사용해보기](https://github.com/peisns/tryScrapy/blob/main/quotes_spider.py)
 3. [venv - python 가상환경 설정](PersonalMissions/try_venv.md)
 
 
