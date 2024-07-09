@@ -1,0 +1,83 @@
+[🏠 처음으로](/README.md)
+
+# Knowledge Repository
+
+- 2024-07-09
+- `venv` → python 가상환경 설정(macOS, zsh, terminal 사용)
+<!-- - 목차 -->
+- [참고](#참고)
+
+# venv
+
+- 패키지 의존성 문제를 예방하고자 venv를 사용해보자
+- `venv`는 `conda`나 `virtualenv`과 다르게 python의 표준 라이브러리에 포함되어 있어서 별도의 설치가 필요하지 않다
+- 가상환경을 통해서 프로젝트마다 독립적인 버전 관리가 가능하게 된다
+- 장점
+    - 의존성 관리: 프로젝트마다 독립적인 패키지 설치 환경을 제공해서, 패키지 버전 충돌을 방지할 수 있다.
+    - 재현성: 특정 프로젝트의 환경을 그대로 재현할 수 있기 때문에 협업 시 환경을 통제할 수 있다.
+
+
+## 설치하기
+
+- 위에서 언급한 것처럼, python 3.3 버전 이후로는 표준 라이브러리에 포함되어 있기 때문에, 별도의 설치가 필요없다.
+- 단, 그래서 python이 미리 설치되어 있어야 한다
+    - python 설치 여부는 `python --version` 이나 `python3 --version` 으로 확인
+
+
+## 가상환경 설정
+
+    python3 -m venv 폴더이름
+
+- 현재 디렉토리에 myenv라는 이름의 디렉토리를 생성하고 가상환경을 설정함
+
+
+## 가상환경 activate
+
+    source 폴더이름/bin/activate
+
+- 폴더 바로 외부 경로에서 실행(생성 시 위치)
+
+
+## 가상환경 비활성화
+
+    deactivate
+
+-   가상환경 활성화 되어있다면 현재 위치(경로)에 상관 없이 비활성화가 가능하다
+
+## 패키지 설치
+
+4.4. 가상환경 내에서 패키지 설치
+가상환경이 활성화된 상태에서 pip 명령어를 사용하여 패키지를 설치할 수 있습니다. 예를 들어, requests 패키지를 설치하려면 다음과 같이 합니다.
+
+bash
+코드 복사
+pip install requests
+4.5. requirements.txt 파일 사용
+프로젝트의 패키지 의존성을 관리하기 위해 requirements.txt 파일을 사용할 수 있습니다. 현재 가상환경에 설치된 패키지 목록을 requirements.txt 파일로 저장하려면 다음 명령어를 사용합니다.
+
+bash
+코드 복사
+pip freeze > requirements.txt
+다른 환경에서 동일한 패키지 의존성을 설치하려면 다음 명령어를 사용하여 requirements.txt 파일에 명시된 패키지를 설치할 수 있습니다.
+
+bash
+코드 복사
+pip install -r requirements.txt
+5. 마무리
+이 글에서는 Python 가상환경 관리 도구인 venv에 대해 알아보았습니다. venv를 사용하면 각 프로젝트마다 독립적인 Python 환경을 설정할 수 있어 패키지 의존성 문제를 해결할 수 있습니다. Python 3.3 이후 버전부터 표준 라이브러리에 포함되어 있으므로, 쉽게 가상환경을 생성하고 관리할 수 있습니다.
+
+이제 venv를 활용하여 Python 프로젝트를 효율적으로 관리해보세요! 가상환경을 사용하면 프로젝트의 일관성과 재현성을 유지할 수 있어 협업이 더욱 원활해질 것입니다.
+
+
+
+
+
+
+
+
+--- 
+
+### 참고
+
+- “venv — Creation of virtual environments.” _3.12.4 Documentation_, Python Software Foundation, 7 7 2024, 00:57 UTC, [docs.python.org/ko/3/library/venv.html#module-venv](https://docs.python.org/ko/3/library/venv.html#module-venv). Accessed 9 7 2024. 
+- Park, Tony. _[Python] 가상환경 생성, 활성화, 비활성화, 삭제 방법(Venv 활용)_. Hey Tech, 22 Feb. 2022, [heytech.tistory.com/295](https://heytech.tistory.com/295). Accessed 9 7 2024.
