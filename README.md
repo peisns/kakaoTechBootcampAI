@@ -14,7 +14,7 @@
 1. Python 기초
     1. [Tutorial(변수, 자료형, 연산자, 조건문, 반복문, 함수, 리스트 등)](knowledgeRepository/tutorial_part_one.md)
     2. [Tutorial(클래스, OOP, 이터레이터, 제너레이터)](knowledgeRepository/tutorial_part_two.md)
-    3. [Tutorial(파일 입출력)](knowledgeRepository/tutorial_part_three.md)
+    3. [Tutorial(파일 입출력, 데이터베이스, 모듈, 패키지, 배포, 에러)](knowledgeRepository/tutorial_part_three.md)
     4. [Tutorial(Collection Module, Logging, Regex, Thread, Coding Convension, Rest API, Web Framework)](knowledgeRepository/tutorial_part_four.md)
     5. [defaultdict](knowledgeRepository/try_defaultdicti.md)
     6. [namedTuple](knowledgeRepository/namedtuple.md)
