@@ -61,6 +61,10 @@
 4.4. 가상환경 내에서 패키지 설치
 가상환경이 활성화된 상태에서 pip 명령어를 사용하여 패키지를 설치할 수 있습니다. 예를 들어, requests 패키지를 설치하려면 다음과 같이 합니다.
 
+n. 패키지가 설치되었는지 확인하려면 pip3 list, pip3 freeze, pip3 show 패키지이름 등으로 확인할 수 있는데, 이 역시 설치 후 가상환경 내에서 확인 될 수 있다.
+deactivate 된 상태에서는 확인할 수 없다.
+
+<!-- TODO -->
 <!-- pip install requests -->
 <!-- 1.requirements.txt 파일 사용 -->
 <!-- 2.pip freeze > requirements.txt # 다르 환경에서 동일한 패키지 의존성 설치-->
