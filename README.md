@@ -29,7 +29,7 @@
 1. [개발 환경 설정](PersonalMissions/setting_up_the_development_environment.md)
 2. [크롤링 - scrapy 사용해보기](https://github.com/peisns/tryScrapy/blob/main/quotes_spider.py)
 3. [venv - python 가상환경 설정](PersonalMissions/try_venv.md)
-
+4. [HTTP 통신 - Request 기초](https://github.com/peisns/practicePython/blob/main/practiceRequest/practiceRequest.py)
 
 ## Personal Mission
 
