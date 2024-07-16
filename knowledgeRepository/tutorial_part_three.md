@@ -8,7 +8,7 @@
 - 파일 입출력, 데이터베이스, 모듈, 패키지, 배포, 에러
 
 
-### Table of Contents
+### Table Of Contents
 
 - [Python 파일 입출력 Read Write files](#python-파일-입출력-read-write-files)
   - [with](#with)
@@ -47,7 +47,7 @@
   - [예외 처리 이유](#예외-처리-이유)
 
 
-<br/>
+<br>
 
 # Python 파일 입출력 Read Write files
 
@@ -120,7 +120,7 @@
 - json.dump(): 파이썬 객체를 JSON 파일로 저장
 - json.load(): JSON 파일을 파이썬 객체로 불러옴
 
-<br/>
+<br>
 
 # 데이터베이스
 
@@ -186,7 +186,7 @@
 - 객체 지향 설계: 객체 지향 방식으로 데이터베이스 작업을 설계 및 구현
 - 웹 애플리케이션 개발: Django Flask 등 웹프레임워크에서 ORM을 사용하여 데이터베이스 작업을 효율적으로 수행
 
-<br/>
+<br>
 
 # 모듈과 패키지
 
@@ -309,7 +309,7 @@
 
 
 
-<br/>
+<br>
 ---
 
 ### 참고
