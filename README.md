@@ -21,7 +21,7 @@
 
 1. 데이터 & 인공지능 기초
     1. [데이터, 케이스, 자료의 구분, 데이터 수집 방법](knowledgeRepository/tutorial_part_five.md)
-    2. [데이터 전처리](/knowledgeRepository/data_preprocessing.md)
+    2. [데이터 전처리, 전처리 과정, 데이터 전처리 최적화](/knowledgeRepository/data_preprocessing.md)
     3. [데이터 분석Ⅰ(데이터 분석 개요, 데이터 탐색 EDA, 기초 통계, 시나리오)](knowledgeRepository/data_analysis_part_one.md)
     4. [딥러닝](knowledgeRepository/deep_learning_part_one.md)
 
