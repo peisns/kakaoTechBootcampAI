@@ -23,14 +23,17 @@
     1. [데이터, 케이스, 자료의 구분, 데이터 수집 방법](knowledgeRepository/tutorial_part_five.md)
     2. [데이터 전처리](/knowledgeRepository/data_preprocessing.md)
     3. [데이터 분석Ⅰ(데이터 분석 개요, 데이터 탐색 EDA, 기초 통계, 시나리오)](knowledgeRepository/data_analysis_part_one.md)
+    4. [딥러닝](knowledgeRepository/deep_learning_part_one.md)
 
 ## Daily Mission
 
-1. [개발 환경 설정](PersonalMissions/setting_up_the_development_environment.md)
+1. [개발 환경 설정](DailyMission/setting_up_the_development_environment.md)
 2. [크롤링 - scrapy 사용해보기](https://github.com/peisns/tryScrapy/blob/main/quotes_spider.py)
-3. [venv - python 가상환경 설정](PersonalMissions/try_venv.md)
+3. [venv - python 가상환경 설정](DailyMission/try_venv.md)
 4. [HTTP 통신 - Request 기초](https://github.com/peisns/practicePython/blob/main/practiceRequest/practiceRequest.py)
 5. [크롤링 - BeautifulSoup 기초](https://github.com/peisns/practicePython/blob/main/practiceBeautifulSoup/practiceBeautifulSoup.py)
+6. [kaggle의 데이터를 선정해 데이터 전처리 파이프라인 구축해보기]()
+7. [PCA Principal Component Analysis, 주성분 분석](/DailyMission/principal_component_analysis.md)
 
 ## Personal Mission
 
